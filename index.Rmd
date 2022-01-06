@@ -1,0 +1,5 @@
+---
+title: "&quot;Another Fake Blog&quot;"
+site: distill::distill_website
+listing: posts
+---

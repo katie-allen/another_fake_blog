@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-01-06T09:14:17-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "&quot;Another Fake Blog&quot;",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-01-06T09:14:21-07:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
